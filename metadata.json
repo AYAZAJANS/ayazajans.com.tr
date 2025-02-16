@@ -1,0 +1,24 @@
+{
+  "name": "SOLINK",           // Token'ın adı
+  "symbol": "SOLINK",                 // Token sembolü
+  "uri": "https://raw.githubusercontent.com/AYAZAJANS/ayazajans.com.tr/refs/heads/main/solink.jpg", // Token görseli veya metadata URL'si
+  "image": "https://raw.githubusercontent.com/AYAZAJANS/ayazajans.com.tr/refs/heads/main/solink.jpg",  // Görsel URL'si
+  "attributes": [                      // Token’a ait özel özellikler (isteğe bağlı)
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Red"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/AYAZAJANS/ayazajans.com.tr/refs/heads/main/solink.jpg",   // Görsel dosyasının URL'si
+        "type": "image/png"                            // Görselin formatı
+      }
+    ]
+  }
+}
